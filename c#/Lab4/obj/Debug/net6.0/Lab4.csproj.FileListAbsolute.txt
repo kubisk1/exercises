@@ -1,0 +1,15 @@
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/Lab4
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/Lab4.deps.json
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/Lab4.runtimeconfig.json
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/Lab4.dll
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/ref/Lab4.dll
+/home/iskra/Desktop/c#/Lab4/bin/Debug/net6.0/Lab4.pdb
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.csproj.AssemblyReference.cache
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfoInputs.cache
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfo.cs
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.csproj.CoreCompileInputs.cache
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.dll
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/ref/Lab4.dll
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.pdb
+/home/iskra/Desktop/c#/Lab4/obj/Debug/net6.0/Lab4.genruntimeconfig.cache

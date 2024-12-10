@@ -1,0 +1,15 @@
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/app10
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/app10.deps.json
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/app10.runtimeconfig.json
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/app10.dll
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/ref/app10.dll
+/home/iskra/Desktop/c#/lab9/app10/bin/Debug/net6.0/app10.pdb
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.csproj.AssemblyReference.cache
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.AssemblyInfoInputs.cache
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.AssemblyInfo.cs
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.csproj.CoreCompileInputs.cache
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.dll
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/ref/app10.dll
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.pdb
+/home/iskra/Desktop/c#/lab9/app10/obj/Debug/net6.0/app10.genruntimeconfig.cache

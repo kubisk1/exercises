@@ -1,0 +1,15 @@
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/app6
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/app6.deps.json
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/app6.runtimeconfig.json
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/app6.dll
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/ref/app6.dll
+/home/iskra/Desktop/c#/lab6/app6/bin/Debug/net6.0/app6.pdb
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.csproj.AssemblyReference.cache
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.AssemblyInfoInputs.cache
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.AssemblyInfo.cs
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.csproj.CoreCompileInputs.cache
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.dll
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/ref/app6.dll
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.pdb
+/home/iskra/Desktop/c#/lab6/app6/obj/Debug/net6.0/app6.genruntimeconfig.cache

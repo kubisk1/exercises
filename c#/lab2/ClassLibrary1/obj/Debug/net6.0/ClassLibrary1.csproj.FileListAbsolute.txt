@@ -1,0 +1,12 @@
+/home/iskra/Desktop/c#/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.deps.json
+/home/iskra/Desktop/c#/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.dll
+/home/iskra/Desktop/c#/ClassLibrary1/bin/Debug/net6.0/ref/ClassLibrary1.dll
+/home/iskra/Desktop/c#/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.pdb
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.csproj.AssemblyReference.cache
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfo.cs
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.dll
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ref/ClassLibrary1.dll
+/home/iskra/Desktop/c#/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.pdb

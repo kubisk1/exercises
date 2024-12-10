@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iskra/Desktop/c#/ApLab2/ApLab2.csproj": {}
+  },
+  "projects": {
+    "/home/iskra/Desktop/c#/ApLab2/ApLab2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iskra/Desktop/c#/ApLab2/ApLab2.csproj",
+        "projectName": "ApLab2",
+        "projectPath": "/home/iskra/Desktop/c#/ApLab2/ApLab2.csproj",
+        "packagesPath": "/home/iskra/.nuget/packages/",
+        "outputPath": "/home/iskra/Desktop/c#/ApLab2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iskra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/iskra/Desktop/c#/ClassLibrary1/ClassLibrary1.csproj": {
+                "projectPath": "/home/iskra/Desktop/c#/ClassLibrary1/ClassLibrary1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.135/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/iskra/Desktop/c#/ClassLibrary1/ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iskra/Desktop/c#/ClassLibrary1/ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "/home/iskra/Desktop/c#/ClassLibrary1/ClassLibrary1.csproj",
+        "packagesPath": "/home/iskra/.nuget/packages/",
+        "outputPath": "/home/iskra/Desktop/c#/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iskra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.135/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
